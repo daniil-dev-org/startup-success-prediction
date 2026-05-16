@@ -1,0 +1,846 @@
+feature,importance_value,importance_type,model,rank
+log_funding_total_usd,0.48732328223474136,model_builtin,GradientBoostingClassifier,1.0
+company_age_years,0.11707891716254347,model_builtin,GradientBoostingClassifier,2.0
+category_code_unknown,0.07538506855706296,model_builtin,GradientBoostingClassifier,3.0
+funding_rounds_num,0.043902134249332044,model_builtin,GradientBoostingClassifier,4.0
+years_to_first_funding,0.0397202286288258,model_builtin,GradientBoostingClassifier,5.0
+country_code_unknown,0.037111886432686106,model_builtin,GradientBoostingClassifier,6.0
+region_unknown,0.03564068969589535,model_builtin,GradientBoostingClassifier,7.0
+country_code_USA,0.03491340963893252,model_builtin,GradientBoostingClassifier,8.0
+funding_duration_years,0.02052188507522119,model_builtin,GradientBoostingClassifier,9.0
+country_code_RUS,0.016432760190182933,model_builtin,GradientBoostingClassifier,10.0
+city_unknown,0.012103861022985055,model_builtin,GradientBoostingClassifier,11.0
+category_code_Analytics,0.007219032980983398,model_builtin,GradientBoostingClassifier,12.0
+category_code_Clean Technology,0.005645054712940619,model_builtin,GradientBoostingClassifier,13.0
+city_infrequent_sklearn,0.003919812060857401,model_builtin,GradientBoostingClassifier,14.0
+region_infrequent_sklearn,0.003703964252040771,model_builtin,GradientBoostingClassifier,15.0
+region_SF Bay Area,0.0035348127067777197,model_builtin,GradientBoostingClassifier,16.0
+category_code_Enterprise Software,0.002751672041803472,model_builtin,GradientBoostingClassifier,17.0
+category_code_Manufacturing,0.0023470557896307334,model_builtin,GradientBoostingClassifier,18.0
+city_Mountain View,0.002052033895216144,model_builtin,GradientBoostingClassifier,19.0
+city_Los Angeles,0.0019457191528169124,model_builtin,GradientBoostingClassifier,20.0
+category_code_Android,0.0018758469804049378,model_builtin,GradientBoostingClassifier,21.0
+category_code_Digital Media,0.0017302335392131638,model_builtin,GradientBoostingClassifier,22.0
+state_code_infrequent_sklearn,0.0016730206654033202,model_builtin,GradientBoostingClassifier,23.0
+category_code_Hospitality,0.0016249548078385966,model_builtin,GradientBoostingClassifier,24.0
+category_code_Services,0.0012938641041669995,model_builtin,GradientBoostingClassifier,25.0
+region_Boston,0.0012797040639173018,model_builtin,GradientBoostingClassifier,26.0
+category_code_Transportation,0.0011538544193660013,model_builtin,GradientBoostingClassifier,27.0
+state_code_ON,0.0011456319048990455,model_builtin,GradientBoostingClassifier,28.0
+category_code_Advertising,0.0010728685836295967,model_builtin,GradientBoostingClassifier,29.0
+region_Chicago,0.0009941410848840686,model_builtin,GradientBoostingClassifier,30.0
+country_code_BRA,0.0009789949825707253,model_builtin,GradientBoostingClassifier,31.0
+state_code_15,0.0009370234807111173,model_builtin,GradientBoostingClassifier,32.0
+category_code_Health Care,0.0008309294529822388,model_builtin,GradientBoostingClassifier,33.0
+region_New York City,0.0007859095130708347,model_builtin,GradientBoostingClassifier,34.0
+category_code_News,0.0007530963190516153,model_builtin,GradientBoostingClassifier,35.0
+city_Quebec,0.000735871353573467,model_builtin,GradientBoostingClassifier,36.0
+state_code_unknown,0.0007299023969540597,model_builtin,GradientBoostingClassifier,37.0
+region_Napa Valley,0.0006979003467670152,model_builtin,GradientBoostingClassifier,38.0
+city_Austin,0.0006562054468924974,model_builtin,GradientBoostingClassifier,39.0
+category_code_Pharmaceuticals,0.0006468878480766764,model_builtin,GradientBoostingClassifier,40.0
+category_code_Web Hosting,0.0006289297443193799,model_builtin,GradientBoostingClassifier,41.0
+state_code_VT,0.0005979791903938551,model_builtin,GradientBoostingClassifier,42.0
+city_Calgary,0.0005667726919568795,model_builtin,GradientBoostingClassifier,43.0
+state_code_AB,0.0005436319167900879,model_builtin,GradientBoostingClassifier,44.0
+region_Quebec City,0.0005339254411425848,model_builtin,GradientBoostingClassifier,45.0
+region_CHE - Other,0.0004916801229152306,model_builtin,GradientBoostingClassifier,46.0
+category_code_Software,0.0004916693115554122,model_builtin,GradientBoostingClassifier,47.0
+region_Vancouver,0.0004897164488575739,model_builtin,GradientBoostingClassifier,48.0
+state_code_G5,0.0004806138940274622,model_builtin,GradientBoostingClassifier,49.0
+state_code_16,0.00045806953347300787,model_builtin,GradientBoostingClassifier,50.0
+city_San Francisco,0.00045157644128494405,model_builtin,GradientBoostingClassifier,51.0
+category_code_Internet Marketing,0.0004482854489921298,model_builtin,GradientBoostingClassifier,52.0
+category_code_Advertising Platforms,0.00044797600813849085,model_builtin,GradientBoostingClassifier,53.0
+"region_Orange County, California",0.00042219276733539753,model_builtin,GradientBoostingClassifier,54.0
+state_code_H9,0.00041951685341121625,model_builtin,GradientBoostingClassifier,55.0
+state_code_CA,0.00040698801671654433,model_builtin,GradientBoostingClassifier,56.0
+category_code_Diagnostics,0.0003865492263982187,model_builtin,GradientBoostingClassifier,57.0
+state_code_WA,0.0003803299868500341,model_builtin,GradientBoostingClassifier,58.0
+category_code_Curated Web,0.00037338569046764525,model_builtin,GradientBoostingClassifier,59.0
+city_Longmont,0.00036569887518683676,model_builtin,GradientBoostingClassifier,60.0
+category_code_Communications Infrastructure,0.0003565767129304124,model_builtin,GradientBoostingClassifier,61.0
+category_code_Technology,0.00035564797621737685,model_builtin,GradientBoostingClassifier,62.0
+category_code_Human Resources,0.000352998200589312,model_builtin,GradientBoostingClassifier,63.0
+region_Oslo,0.00035042477410640626,model_builtin,GradientBoostingClassifier,64.0
+category_code_Advice,0.0003496109317701435,model_builtin,GradientBoostingClassifier,65.0
+category_code_Content,0.000340162700937945,model_builtin,GradientBoostingClassifier,66.0
+category_code_Big Data Analytics,0.000337709362474733,model_builtin,GradientBoostingClassifier,67.0
+state_code_UT,0.000331023201166276,model_builtin,GradientBoostingClassifier,68.0
+region_Denver,0.00032288810023102114,model_builtin,GradientBoostingClassifier,69.0
+city_Bangalore,0.0003218102168799624,model_builtin,GradientBoostingClassifier,70.0
+city_Lafayette,0.0003185477889836308,model_builtin,GradientBoostingClassifier,71.0
+category_code_Finance,0.00031223463874142417,model_builtin,GradientBoostingClassifier,72.0
+category_code_Media,0.00031016086933265515,model_builtin,GradientBoostingClassifier,73.0
+category_code_Beauty,0.00030549871435371623,model_builtin,GradientBoostingClassifier,74.0
+state_code_MN,0.0002982970934398206,model_builtin,GradientBoostingClassifier,75.0
+category_code_Facebook Applications,0.00029810639769318754,model_builtin,GradientBoostingClassifier,76.0
+city_Torrance,0.00029716370502978957,model_builtin,GradientBoostingClassifier,77.0
+state_code_OR,0.00029629470844548945,model_builtin,GradientBoostingClassifier,78.0
+category_code_Energy,0.0002921326754622853,model_builtin,GradientBoostingClassifier,79.0
+category_code_infrequent_sklearn,0.00029185475812108726,model_builtin,GradientBoostingClassifier,80.0
+city_Franklin,0.0002901273750583533,model_builtin,GradientBoostingClassifier,81.0
+category_code_Consumer Goods,0.000275103149093473,model_builtin,GradientBoostingClassifier,82.0
+state_code_4,0.00025372287167854907,model_builtin,GradientBoostingClassifier,83.0
+category_code_Domains,0.00022453472283226673,model_builtin,GradientBoostingClassifier,84.0
+city_Edmonton,0.00022431571577980272,model_builtin,GradientBoostingClassifier,85.0
+category_code_EdTech,0.0002122426294650462,model_builtin,GradientBoostingClassifier,86.0
+city_Addison,0.0002116710494026909,model_builtin,GradientBoostingClassifier,87.0
+category_code_Broadcasting,0.0001955623807896493,model_builtin,GradientBoostingClassifier,88.0
+category_code_Fantasy Sports,0.00019351312188682046,model_builtin,GradientBoostingClassifier,89.0
+state_code_WI,0.00019312181975692807,model_builtin,GradientBoostingClassifier,90.0
+category_code_Nonprofits,0.00018961179759340984,model_builtin,GradientBoostingClassifier,91.0
+country_code_BGR,0.0001859219137369888,model_builtin,GradientBoostingClassifier,92.0
+city_Newton,0.00018235394928612977,model_builtin,GradientBoostingClassifier,93.0
+region_Salt Lake City,0.0001803917035318823,model_builtin,GradientBoostingClassifier,94.0
+region_Dallas,0.00017928889897325968,model_builtin,GradientBoostingClassifier,95.0
+city_Englewood,0.00017887869556835578,model_builtin,GradientBoostingClassifier,96.0
+city_Jakarta,0.0001787634991596115,model_builtin,GradientBoostingClassifier,97.0
+region_Roanoke,0.00017422701705683657,model_builtin,GradientBoostingClassifier,98.0
+city_Singapore,0.0001710657937853236,model_builtin,GradientBoostingClassifier,99.0
+state_code_10,0.0001697058001592916,model_builtin,GradientBoostingClassifier,100.0
+city_Arlington,0.00016929242786516477,model_builtin,GradientBoostingClassifier,101.0
+category_code_Semiconductors,0.00016920936548816493,model_builtin,GradientBoostingClassifier,102.0
+category_code_Big Data,0.00016596006571451726,model_builtin,GradientBoostingClassifier,103.0
+city_Reston,0.00016517294781325908,model_builtin,GradientBoostingClassifier,104.0
+category_code_Messaging,0.00016450536979181483,model_builtin,GradientBoostingClassifier,105.0
+category_code_Hardware + Software,0.00016387269876500348,model_builtin,GradientBoostingClassifier,106.0
+category_code_Industrial,0.00016058365445693583,model_builtin,GradientBoostingClassifier,107.0
+city_Dallas,0.00015878011191626577,model_builtin,GradientBoostingClassifier,108.0
+region_Edinburgh,0.00015741123543507076,model_builtin,GradientBoostingClassifier,109.0
+category_code_Crowdsourcing,0.00015682528459401099,model_builtin,GradientBoostingClassifier,110.0
+city_Burlington,0.000155951251441746,model_builtin,GradientBoostingClassifier,111.0
+region_Palm Beaches,0.0001533350523989843,model_builtin,GradientBoostingClassifier,112.0
+city_Toronto,0.0001526650791145153,model_builtin,GradientBoostingClassifier,113.0
+category_code_Career Planning,0.0001511431037134903,model_builtin,GradientBoostingClassifier,114.0
+city_Kitchener,0.00014912894841671701,model_builtin,GradientBoostingClassifier,115.0
+state_code_MD,0.00014887755311924938,model_builtin,GradientBoostingClassifier,116.0
+category_code_Photography,0.0001487319816063096,model_builtin,GradientBoostingClassifier,117.0
+region_DEU - Other,0.00014707213891011772,model_builtin,GradientBoostingClassifier,118.0
+country_code_JPN,0.00014603768044663918,model_builtin,GradientBoostingClassifier,119.0
+state_code_5,0.00014582681744891316,model_builtin,GradientBoostingClassifier,120.0
+country_code_NZL,0.00014516348354931319,model_builtin,GradientBoostingClassifier,121.0
+city_Chapel Hill,0.00014394821717782824,model_builtin,GradientBoostingClassifier,122.0
+city_South San Francisco,0.0001438726559272672,model_builtin,GradientBoostingClassifier,123.0
+category_code_Collaboration,0.00014311687276587795,model_builtin,GradientBoostingClassifier,124.0
+city_Mumbai,0.00014296137034283234,model_builtin,GradientBoostingClassifier,125.0
+region_San Diego,0.00013615995762878316,model_builtin,GradientBoostingClassifier,126.0
+city_Oakland,0.00013430143738787052,model_builtin,GradientBoostingClassifier,127.0
+city_Seattle,0.00013415841012625793,model_builtin,GradientBoostingClassifier,128.0
+region_Kansas City,0.00013175539819701605,model_builtin,GradientBoostingClassifier,129.0
+state_code_SC,0.00012894118219114467,model_builtin,GradientBoostingClassifier,130.0
+state_code_NY,0.00011872173142667116,model_builtin,GradientBoostingClassifier,131.0
+city_Washington,0.00011845080004971907,model_builtin,GradientBoostingClassifier,132.0
+category_code_Travel,0.00010496377287457841,model_builtin,GradientBoostingClassifier,133.0
+region_Tel Aviv,9.839239912442279e-05,model_builtin,GradientBoostingClassifier,134.0
+state_code_GA,9.664988774848569e-05,model_builtin,GradientBoostingClassifier,135.0
+city_San Ramon,8.148709942806948e-05,model_builtin,GradientBoostingClassifier,136.0
+region_Madison,7.144904556699302e-05,model_builtin,GradientBoostingClassifier,137.0
+city_Madison,3.562351086695731e-05,model_builtin,GradientBoostingClassifier,138.0
+region_SWE - Other,1.5417895411755577e-05,model_builtin,GradientBoostingClassifier,139.0
+city_West Palm Beach,4.228333712034781e-06,model_builtin,GradientBoostingClassifier,140.0
+category_code_Clean Energy,9.240535549393867e-07,model_builtin,GradientBoostingClassifier,141.0
+state_code_7,5.289892090078292e-08,model_builtin,GradientBoostingClassifier,142.0
+category_code_App Marketing,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Watertown,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Wayne,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Wellington,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_West Hollywood,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Stamford,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Infrastructure,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_B2B,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Accounting,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Waltham,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Vienna,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Victoria,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Venice,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Vancouver,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Tucson,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Tokyo,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Tel Aviv,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Tampa,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_São Paulo,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Sydney,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Sunnyvale,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Banking,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Babies,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Westborough,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Health Diagnostics,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Health Care Information Technology,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Hardware,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Gps,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Games,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Game,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Food Processing,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Fitness,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Financial Services,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Finance Technology,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Film,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Internet of Things,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Internet,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Interest Graph,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Intelligent Systems,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Innovation Management,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Nanotechnology,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Music,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Mobile,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Medical Devices,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Medical,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Marketplaces,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Maps,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Logistics,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Location Based Services,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Local Businesses,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Local,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Lifestyle,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Legal,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Investment Management,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Healthcare Services,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Health and Wellness,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Security,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Search,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_SaaS,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Reviews and Recommendations,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Retail,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Recruiting,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Real Estate,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Publishing,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Public Transportation,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Public Relations,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Property Management,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Pets,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Open Source,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Online Travel,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Online Shopping,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Networking,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Fashion,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Exercise,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Events,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Event Management,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Environmental Innovation,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Entrepreneur,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Entertainment,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Enterprises,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Engineering Firms,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Energy Efficiency,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Employment,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Telecommunications,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Storage,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Sports,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Social Media,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Service Providers,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_DNK,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_DEU,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_CZE,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_COL,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_CHN,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_CHL,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_CHE,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_CAN,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_BEL,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_AUT,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_AUS,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_ARG,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_ARE,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_iPhone,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_iPad,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_File Sharing,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_NLD,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_MYS,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_MEX,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_LUX,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_LTU,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_KOR,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_ITA,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_ISR,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_IRL,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_IND,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_IDN,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_HKG,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_GBR,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_FRA,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_FIN,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_ESP,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_E-Commerce,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Document Management,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Doctors,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Distribution,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Discounts,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Digital Signage,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Development Platforms,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Developer Tools,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_TWN,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_TUR,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_SWE,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_SGP,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_POL,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_PHL,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_PER,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_NOR,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_20,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_2,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_19,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_18,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_17,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_14,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_13,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_12,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_11,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_1,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_infrequent_sklearn,0.0,model_builtin,GradientBoostingClassifier,489.0
+country_code_ZAF,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Email,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Electronics,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Education,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Ediscovery,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_52,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_48,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_42,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_40,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_34,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_30,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_3,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_29,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_28,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_27,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_26,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_25,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_24,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_23,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_22,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_21,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_B9,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_B8,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_B3,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_AZ,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_AL,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_A8,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_A7,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_A6,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_9,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_8,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_78,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_71,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_66,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_6,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_56,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_ID,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_IA,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_I2,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_H3,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_G2,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_FL,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_F2,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_E7,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_DE,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_DC,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_CT,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_CO,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_C5,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_C3,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_BC,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_NH,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_NE,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_NC,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_N7,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_MO,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_MI,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_ME,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_MA,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_LA,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_KY,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_KS,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_K7,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_K2,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_J8,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_IN,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_IL,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Databases,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Data Security,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Data Centers,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Cyber Security,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Customer Service,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Crowdfunding,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Credit Cards,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Credit,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Creative,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Coupons,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_OK,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_OH,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_NV,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_NS,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_NM,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_NJ,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Allentown,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Alexandria,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Albuquerque,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_AUS - Other,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_VA,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_U8,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_TX,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_TN,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_RI,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_QC,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_PA,0.0,model_builtin,GradientBoostingClassifier,489.0
+state_code_P6,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Developer APIs,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Design,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Dental,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Delivery,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Buffalo,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Buenos Aires,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Brussels,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Bogota,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Birmingham,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Berlin,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Beijing,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Barcelona,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Bangalore,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Baltimore,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_BRA - Other,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Austin,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Auckland,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Atlanta,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Anaheim,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Amsterdam,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Des Moines,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_DNK - Other,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Copenhagen,0.0,model_builtin,GradientBoostingClassifier,489.0
+"region_Columbus, Ohio",0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Cologne,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Cleveland,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Cincinnati,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Chennai,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Charlotte,0.0,model_builtin,GradientBoostingClassifier,489.0
+"region_Charleston, South Carolina",0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Cape Town,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Calgary,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_CT - Other,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_CHN - Other,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_CA - Other,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Burnaby,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Helsinki,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Hartford,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Harrisburg,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Hamburg,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Greenville - Spartanburg,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Gothenburg,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Geneva,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_GBR - Other,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Ft. Lauderdale,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Frankfurt,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Florida's Space Coast,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_FRA - Other,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Edmonton,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Dublin,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Dubai,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Detroit,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Lima,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Leeds,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Lausanne,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Las Vegas,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Kuala Lumpur,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Jakarta,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Jacksonville,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_JPN - Other,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Istanbul,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Indianapolis,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_ITA - Other,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_ISR - Other,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_IRL - Other,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_IL - Other,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Houston,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Hong Kong,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Milan,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Miami,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Mexico City,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Memphis,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Melbourne,0.0,model_builtin,GradientBoostingClassifier,489.0
+"region_Manchester, New Hampshire",0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Manchester,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Malmo,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Madrid,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_MN - Other,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_MA - Other,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Louisville,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Los Angeles,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Long Island,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_London,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Contact Management,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Consumers,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Consumer Internet,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Consumer Electronics,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Consulting,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Construction,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Computers,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Communities,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Communications Hardware,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Commercial Real Estate,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Colleges,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Collaborative Consumption,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Moscow,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Montreal,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Minneapolis,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Milwaukee,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Ottawa,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Orlando,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Ontario - Inland Empire,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Omaha,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Nottingham,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Newark,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_New Delhi,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_New Bedford,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Netanya,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Nashville,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_NY - Other,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_NLD - Other,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_NJ - Other,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Munich,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Mumbai,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Content Delivery,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Rome,0.0,model_builtin,GradientBoostingClassifier,489.0
+"region_Rochester, New York",0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Rio de Janeiro,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Richmond,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Raleigh,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_RUS - Other,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Providence,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Prague,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Portsmouth,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Porto Alegre,0.0,model_builtin,GradientBoostingClassifier,489.0
+"region_Portland, Oregon",0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Pittsburgh,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Phoenix,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Philadelphia,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Paris,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_PA - Other,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_St. Petersburg,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_St. Louis,0.0,model_builtin,GradientBoostingClassifier,489.0
+"region_Springfield, Illinois",0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Spokane,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Sofia,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Singapore,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Shenzhen,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Shanghai,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Seoul,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Seattle,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Sao Paulo,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Santiago,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Santa Barbara,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_San Antonio,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Sacramento,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Aerospace,0.0,model_builtin,GradientBoostingClassifier,489.0
+"region_Wilmington, Delaware",0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Wellington,0.0,model_builtin,GradientBoostingClassifier,489.0
+"region_Washington, D.C.",0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Warsaw,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_WI - Other,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Vienna,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_VT - Other,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Utrecht,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Tucson,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Toronto,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Tokyo,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_The Hague,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Agriculture,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Tampa,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Sydney,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Stockholm,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Cloud Management,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Cloud Data Services,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Cloud Computing,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Clinical Trials,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Algorithms,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Classifieds,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Chemicals,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Chat,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Cars,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Career Management,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Cable,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_CRM,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Acton,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Abingdon,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Zurich,0.0,model_builtin,GradientBoostingClassifier,489.0
+region_Worcester,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Beijing,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Bedford,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Beaverton,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Barcelona,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Baltimore,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Auckland,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Atlanta,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Ann Arbor,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Andover,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Amsterdam,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Alpharetta,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Aliso Viejo,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Alexandria,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Albuquerque,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Alameda,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Cloud Security,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Brentwood,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Boxborough,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Boulder,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Bothell,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Boston,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Bogotá,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Boca Raton,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Blacksburg,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Birmingham,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Billerica,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Beverly Hills,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Bethesda,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Berlin,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Berkeley,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Belmont,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Bellevue,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Charleston,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Cary,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Carlsbad,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Cape Town,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Campbell,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Cambridge,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Calabasas,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Burnaby,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Burlingame,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Buffalo,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Buenos Aires,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Brussels,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Broomfield,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Brooklyn,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Brisbane,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Bridgewater,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Culver City,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Costa Mesa,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Copenhagen,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Concord,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Columbus,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Columbia,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Cologne,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Cleveland,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Clearwater,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Cincinnati,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Chicago,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Chennai,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Chelmsford,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Chatsworth,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Charlottesville,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Charlotte,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Foster City,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Fort Lauderdale,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Fairfield,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Emeryville,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_El Segundo,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Edison,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Edinburgh,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Eden Prairie,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Durham,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Duluth,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Dulles,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Dublin,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Dubai,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Denver,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Delft,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Cupertino,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Herndon,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Henderson,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Helsinki,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Hayward,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Hartford,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Hamburg,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Gurgaon,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Guildford,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Greenwood Village,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Greenville,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Goleta,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Germantown,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Geneva,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Gaithersburg,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Fremont,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Framingham,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Business Intelligence,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Business Development,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Browser Extensions,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Bridging Online and Offline,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Brand Marketing,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Blogging Platforms,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Bitcoin,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Biotechnology,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Bio-Pharm,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Billing,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Irvine,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Indianapolis,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Houston,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Hong Kong,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Hillsboro,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Herzliya,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Las Vegas,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Lake Forest,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_La Jolla,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Kista,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Kirkland,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_King Of Prussia,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Kfar Saba,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Kansas City,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Jerusalem,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Jersey City,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Jacksonville,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Itasca,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Istanbul,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Irving,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Business Services,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Business Productivity,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Manchester,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Malvern,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Madrid,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_All Students,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Lucerne Valley,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Lowell,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Louisville,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Los Gatos,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Los Altos,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_London,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Littleton,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Lima,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Lexington,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Lenexa,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Leeds,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Lausanne,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Munich,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Moscow,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Morrisville,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Montréal,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Mississauga,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Minneapolis,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Milpitas,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Milan,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Miami,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Mexico City,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Menlo Park,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Memphis,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Melbourne,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Mclean,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Maynard,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Marlborough,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Orem,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Or Yehuda,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Omaha,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Nottingham,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Norwalk,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Norcross,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Newport Beach,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Newark,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_New York,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_New Haven,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_New Delhi,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Netanya,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Needham,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Nashville,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Nashua,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_München,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Plymouth,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Pleasanton,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Plano,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Pittsburgh,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Phoenix,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Philadelphia,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Petaluma,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Petah Tiqva,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Pasadena,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Paris,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Palo Alto,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Oxford,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Overland Park,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Ottawa,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Oslo,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Orlando,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Richardson,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Redwood Shores,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Redwood City,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Redmond,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Red Bank,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Reading,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Raleigh,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Radnor,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Ra'anana,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Provo,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Providence,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Princeton,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Prague,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Portsmouth,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Porto Alegre,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Portland,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Santa Ana,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Alumni,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_San Mateo,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_San Jose,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_San Diego,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_San Carlos,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_San Bruno,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_San Antonio,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Salt Lake City,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Saint Petersburg,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Saint Paul,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Rome,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Rockville,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Rochester,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Rio De Janeiro,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Richmond,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_St. Petersburg,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_St Louis,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Spokane,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Solana Beach,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Sofia,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Silver Spring,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Sherman Oaks,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Shenzhen,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Shelton,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Shanghai,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Seoul,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Scottsdale,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Santiago,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Santa Monica,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Santa Clara,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Santa Barbara,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Automotive,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Information Technology,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Information Services,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Information Security,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Identity,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Hotels,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Hospitals,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Zürich,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Woodland Hills,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Woburn,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Wilmington,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_White Plains,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Westminster,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Westlake Village,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Westford,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_3D,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Waterloo,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Auto,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Augmented Reality,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Audio,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Auctions,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Assisitive Technology,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Artists Globally,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Artificial Intelligence,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Art,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Architecture,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Apps,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Application Platforms,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_App Stores,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Stockholm,0.0,model_builtin,GradientBoostingClassifier,489.0
+city_Sterling,0.0,model_builtin,GradientBoostingClassifier,489.0
+category_code_Ad Targeting,0.0,model_builtin,GradientBoostingClassifier,489.0
+log_funding_total_usd,0.07971503562054749,permutation,GradientBoostingClassifier,1.0
+category_code,0.03052118485189357,permutation,GradientBoostingClassifier,2.0
+country_code,0.018672665916760443,permutation,GradientBoostingClassifier,3.0
+company_age_years,0.0158980127484065,permutation,GradientBoostingClassifier,4.0
+funding_rounds_num,0.004949381327334135,permutation,GradientBoostingClassifier,5.0
+region,0.0037495313085864844,permutation,GradientBoostingClassifier,6.0
+years_to_first_funding,0.0022497187851518996,permutation,GradientBoostingClassifier,7.0
+funding_duration_years,0.0020247469066367206,permutation,GradientBoostingClassifier,8.0
+city,0.0011248593925759832,permutation,GradientBoostingClassifier,9.0
+state_code,4.4408920985006264e-17,permutation,GradientBoostingClassifier,10.0

@@ -1,0 +1,14 @@
+{
+    "used_features": [
+        "log_funding_total_usd",
+        "funding_rounds_num",
+        "company_age_years",
+        "years_to_first_funding",
+        "funding_duration_years",
+        "category_code",
+        "country_code",
+        "state_code",
+        "region",
+        "city"
+    ]
+}

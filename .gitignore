@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.env
+
+# Data structure (keep folders, ignore files)
+data/external/*
+!data/external/.gitkeep
+data/external/*/*
+!data/external/*/.gitkeep
+!data/external/big_startup_success_fail/big_startup_secsees_dataset.csv
+data/processed/*
+!data/processed/.gitkeep
+
+# Models (keep folder, ignore binaries)
+models/*
+!models/.gitkeep
+
+# Reports (keep reports, ignore specific large files if any)
+# But we keep figures and JSONs
+# reports/figures/*.png  # Included by default
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
